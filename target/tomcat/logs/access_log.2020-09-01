@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [01/Sep/2020:07:32:25 +0100] "GET /testJSP/ HTTP/1.1" 304 - http-bio-8080-exec-1 37
+0:0:0:0:0:0:0:1 - - [01/Sep/2020:07:32:27 +0100] "POST /testJSP/ChooseTask HTTP/1.1" 200 152 http-bio-8080-exec-3 880
+0:0:0:0:0:0:0:1 - - [01/Sep/2020:07:32:39 +0100] "POST /testJSP/ChooseTask HTTP/1.1" 200 151 http-bio-8080-exec-4 77
+0:0:0:0:0:0:0:1 - - [01/Sep/2020:07:32:46 +0100] "POST /testJSP/ChooseTask HTTP/1.1" 200 140 http-bio-8080-exec-5 2
